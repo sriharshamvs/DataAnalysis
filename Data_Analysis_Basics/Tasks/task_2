@@ -1,0 +1,20 @@
+1. Perform visualizations on the dataset crimes against women
+    1.1 Identify in which state there are more 
+        1.1.1 Dowry Deaths
+        1.1.2 Kidnapping cases
+    1.2 Identify the most dangerous state, ditrict in India in terms of Rape cases and overall statistics
+    1.3 Draw all graphs(By exploring) on "Cruelty by Husband or his Relatives" group by state
+    1.4 Understand the behaviour of Andhra Pradesh state and draw visulas on different metrics group by disctricts.
+    1.5 Any other relevant visual you want to build.
+
+2. Perform visualizations on the dataset water_quality.csv
+    2.1 Pre-process, clean and Understand the dataset
+    2.2 Describe the dataset
+    2.3 Identify the unique Quality Parameters in the given dataset
+    2.4 Identify the no of rows with Iron Quality Parameter in total, with respect to state
+    2.5 Identify the state that is deficit in flouride
+    2.6 Draw a bar chart with count of all Quality Parameters
+    2.7 visualize the probality of all the quality parameters with scatter plot
+    2.8 Perform the above probablity method only to the state of Andhra Pradesh
+
+3. Pick up any other dataset in the folder, frame your own questions, build visuals and build a story out of it.
