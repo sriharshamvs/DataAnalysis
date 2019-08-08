@@ -1,0 +1,17 @@
+1. create a list film with columns film_name, hero, heroine  with 2 initial records
+    1.1 Add a new column director to this dictionary
+    1.2 insert the details of the film 'pk'
+    1.3 Add a column collections(in CR) to this dictionary
+    1.4 Print all films with collections > 10CR
+    1.5 Remove 2nd film from this dictionary
+
+2. create a college dictionary with the columns department_name, total_strength, appeared_for_exam, total_passed with minimum 5 Departments
+    2.1 decribe this dictionary
+    2.2 add a new column hod_name
+    2.3 Find department with least number of students
+    2.4 Find department with more pass percentage
+    2.5 Print the total strength of the college
+    2.6 What is the overall pass percentage of the college?
+
+3. Perform basic visualizations on the dataframes created above
+    3.1 bar chart, histogram on sum, mean metrics
